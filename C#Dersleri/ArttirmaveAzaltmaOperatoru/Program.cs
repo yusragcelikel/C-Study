@@ -29,6 +29,8 @@ namespace ArttirmaveAzaltmaOperatoru
 
             Console.ReadLine(); // 
 
+            //------------------
+
         }
     }
 }
