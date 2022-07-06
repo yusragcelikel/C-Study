@@ -23,7 +23,11 @@ namespace ArttirmaveAzaltmaOperatoru
 
             Console.WriteLine(sayi);
 
-            Console.ReadLine();
+            sayi--;
+
+            Console.WriteLine(sayi);
+
+            Console.ReadLine(); // 
 
         }
     }
