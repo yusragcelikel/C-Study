@@ -1,0 +1,8 @@
+C:\C#Dersleri\TurDonusumleri\bin\Debug\TurDonusumleri.exe.config
+C:\C#Dersleri\TurDonusumleri\bin\Debug\TurDonusumleri.exe
+C:\C#Dersleri\TurDonusumleri\bin\Debug\TurDonusumleri.pdb
+C:\C#Dersleri\TurDonusumleri\obj\Debug\TurDonusumleri.csproj.AssemblyReference.cache
+C:\C#Dersleri\TurDonusumleri\obj\Debug\TurDonusumleri.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\TurDonusumleri\obj\Debug\TurDonusumleri.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\TurDonusumleri\obj\Debug\TurDonusumleri.exe
+C:\C#Dersleri\TurDonusumleri\obj\Debug\TurDonusumleri.pdb

@@ -1,0 +1,8 @@
+C:\C#Dersleri\BoolVeriTipi\bin\Debug\BoolVeriTipi.exe.config
+C:\C#Dersleri\BoolVeriTipi\bin\Debug\BoolVeriTipi.exe
+C:\C#Dersleri\BoolVeriTipi\bin\Debug\BoolVeriTipi.pdb
+C:\C#Dersleri\BoolVeriTipi\obj\Debug\BoolVeriTipi.csproj.AssemblyReference.cache
+C:\C#Dersleri\BoolVeriTipi\obj\Debug\BoolVeriTipi.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\BoolVeriTipi\obj\Debug\BoolVeriTipi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\BoolVeriTipi\obj\Debug\BoolVeriTipi.exe
+C:\C#Dersleri\BoolVeriTipi\obj\Debug\BoolVeriTipi.pdb

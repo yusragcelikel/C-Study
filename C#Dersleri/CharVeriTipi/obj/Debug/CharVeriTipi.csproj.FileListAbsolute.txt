@@ -1,0 +1,8 @@
+C:\C#Dersleri\CharVeriTipi\bin\Debug\CharVeriTipi.exe.config
+C:\C#Dersleri\CharVeriTipi\bin\Debug\CharVeriTipi.exe
+C:\C#Dersleri\CharVeriTipi\bin\Debug\CharVeriTipi.pdb
+C:\C#Dersleri\CharVeriTipi\obj\Debug\CharVeriTipi.csproj.AssemblyReference.cache
+C:\C#Dersleri\CharVeriTipi\obj\Debug\CharVeriTipi.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\CharVeriTipi\obj\Debug\CharVeriTipi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\CharVeriTipi\obj\Debug\CharVeriTipi.exe
+C:\C#Dersleri\CharVeriTipi\obj\Debug\CharVeriTipi.pdb

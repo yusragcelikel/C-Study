@@ -1,0 +1,8 @@
+C:\C#Dersleri\VeOperatoru\bin\Debug\VeOperatoru.exe.config
+C:\C#Dersleri\VeOperatoru\bin\Debug\VeOperatoru.exe
+C:\C#Dersleri\VeOperatoru\bin\Debug\VeOperatoru.pdb
+C:\C#Dersleri\VeOperatoru\obj\Debug\VeOperatoru.csproj.AssemblyReference.cache
+C:\C#Dersleri\VeOperatoru\obj\Debug\VeOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\VeOperatoru\obj\Debug\VeOperatoru.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\VeOperatoru\obj\Debug\VeOperatoru.exe
+C:\C#Dersleri\VeOperatoru\obj\Debug\VeOperatoru.pdb

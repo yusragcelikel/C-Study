@@ -1,0 +1,8 @@
+C:\C#Dersleri\BreakpointveTooltipOnemi\bin\Debug\BreakpointveTooltipOnemi.exe.config
+C:\C#Dersleri\BreakpointveTooltipOnemi\bin\Debug\BreakpointveTooltipOnemi.exe
+C:\C#Dersleri\BreakpointveTooltipOnemi\bin\Debug\BreakpointveTooltipOnemi.pdb
+C:\C#Dersleri\BreakpointveTooltipOnemi\obj\Debug\BreakpointveTooltipOnemi.csproj.AssemblyReference.cache
+C:\C#Dersleri\BreakpointveTooltipOnemi\obj\Debug\BreakpointveTooltipOnemi.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\BreakpointveTooltipOnemi\obj\Debug\BreakpointveTooltipOnemi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\BreakpointveTooltipOnemi\obj\Debug\BreakpointveTooltipOnemi.exe
+C:\C#Dersleri\BreakpointveTooltipOnemi\obj\Debug\BreakpointveTooltipOnemi.pdb

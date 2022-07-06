@@ -1,0 +1,8 @@
+C:\C#Dersleri\ArttirmaveAzaltmaOperatoru\bin\Debug\ArttirmaveAzaltmaOperatoru.exe.config
+C:\C#Dersleri\ArttirmaveAzaltmaOperatoru\bin\Debug\ArttirmaveAzaltmaOperatoru.exe
+C:\C#Dersleri\ArttirmaveAzaltmaOperatoru\bin\Debug\ArttirmaveAzaltmaOperatoru.pdb
+C:\C#Dersleri\ArttirmaveAzaltmaOperatoru\obj\Debug\ArttirmaveAzaltmaOperatoru.csproj.AssemblyReference.cache
+C:\C#Dersleri\ArttirmaveAzaltmaOperatoru\obj\Debug\ArttirmaveAzaltmaOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\ArttirmaveAzaltmaOperatoru\obj\Debug\ArttirmaveAzaltmaOperatoru.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\ArttirmaveAzaltmaOperatoru\obj\Debug\ArttirmaveAzaltmaOperatoru.exe
+C:\C#Dersleri\ArttirmaveAzaltmaOperatoru\obj\Debug\ArttirmaveAzaltmaOperatoru.pdb

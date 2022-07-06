@@ -1,0 +1,8 @@
+C:\C#Dersleri\VeyaOperatoru\bin\Debug\VeyaOperatoru.exe.config
+C:\C#Dersleri\VeyaOperatoru\bin\Debug\VeyaOperatoru.exe
+C:\C#Dersleri\VeyaOperatoru\bin\Debug\VeyaOperatoru.pdb
+C:\C#Dersleri\VeyaOperatoru\obj\Debug\VeyaOperatoru.csproj.AssemblyReference.cache
+C:\C#Dersleri\VeyaOperatoru\obj\Debug\VeyaOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\VeyaOperatoru\obj\Debug\VeyaOperatoru.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\VeyaOperatoru\obj\Debug\VeyaOperatoru.exe
+C:\C#Dersleri\VeyaOperatoru\obj\Debug\VeyaOperatoru.pdb

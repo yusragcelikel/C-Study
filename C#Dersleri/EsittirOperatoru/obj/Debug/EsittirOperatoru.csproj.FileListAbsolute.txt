@@ -1,0 +1,8 @@
+C:\C#Dersleri\EsittirOperatoru\bin\Debug\EsittirOperatoru.exe.config
+C:\C#Dersleri\EsittirOperatoru\bin\Debug\EsittirOperatoru.exe
+C:\C#Dersleri\EsittirOperatoru\bin\Debug\EsittirOperatoru.pdb
+C:\C#Dersleri\EsittirOperatoru\obj\Debug\EsittirOperatoru.csproj.AssemblyReference.cache
+C:\C#Dersleri\EsittirOperatoru\obj\Debug\EsittirOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\EsittirOperatoru\obj\Debug\EsittirOperatoru.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\EsittirOperatoru\obj\Debug\EsittirOperatoru.exe
+C:\C#Dersleri\EsittirOperatoru\obj\Debug\EsittirOperatoru.pdb

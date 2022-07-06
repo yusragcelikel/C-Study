@@ -1,0 +1,8 @@
+C:\C#Dersleri\EkOperatorler\bin\Debug\EkOperatorler.exe.config
+C:\C#Dersleri\EkOperatorler\bin\Debug\EkOperatorler.exe
+C:\C#Dersleri\EkOperatorler\bin\Debug\EkOperatorler.pdb
+C:\C#Dersleri\EkOperatorler\obj\Debug\EkOperatorler.csproj.AssemblyReference.cache
+C:\C#Dersleri\EkOperatorler\obj\Debug\EkOperatorler.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\EkOperatorler\obj\Debug\EkOperatorler.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\EkOperatorler\obj\Debug\EkOperatorler.exe
+C:\C#Dersleri\EkOperatorler\obj\Debug\EkOperatorler.pdb

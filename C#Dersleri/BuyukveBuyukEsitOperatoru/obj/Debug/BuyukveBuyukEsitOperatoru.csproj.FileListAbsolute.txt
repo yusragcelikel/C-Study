@@ -1,0 +1,8 @@
+C:\C#Dersleri\BuyukveBuyukEsitOperatoru\bin\Debug\BuyukveBuyukEsitOperatoru.exe.config
+C:\C#Dersleri\BuyukveBuyukEsitOperatoru\bin\Debug\BuyukveBuyukEsitOperatoru.exe
+C:\C#Dersleri\BuyukveBuyukEsitOperatoru\bin\Debug\BuyukveBuyukEsitOperatoru.pdb
+C:\C#Dersleri\BuyukveBuyukEsitOperatoru\obj\Debug\BuyukveBuyukEsitOperatoru.csproj.AssemblyReference.cache
+C:\C#Dersleri\BuyukveBuyukEsitOperatoru\obj\Debug\BuyukveBuyukEsitOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\BuyukveBuyukEsitOperatoru\obj\Debug\BuyukveBuyukEsitOperatoru.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\BuyukveBuyukEsitOperatoru\obj\Debug\BuyukveBuyukEsitOperatoru.exe
+C:\C#Dersleri\BuyukveBuyukEsitOperatoru\obj\Debug\BuyukveBuyukEsitOperatoru.pdb

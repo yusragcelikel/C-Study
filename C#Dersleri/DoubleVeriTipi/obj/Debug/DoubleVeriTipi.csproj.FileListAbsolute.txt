@@ -1,0 +1,8 @@
+C:\C#Dersleri\DoubleVeriTipi\bin\Debug\DoubleVeriTipi.exe.config
+C:\C#Dersleri\DoubleVeriTipi\bin\Debug\DoubleVeriTipi.exe
+C:\C#Dersleri\DoubleVeriTipi\bin\Debug\DoubleVeriTipi.pdb
+C:\C#Dersleri\DoubleVeriTipi\obj\Debug\DoubleVeriTipi.csproj.AssemblyReference.cache
+C:\C#Dersleri\DoubleVeriTipi\obj\Debug\DoubleVeriTipi.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\DoubleVeriTipi\obj\Debug\DoubleVeriTipi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\DoubleVeriTipi\obj\Debug\DoubleVeriTipi.exe
+C:\C#Dersleri\DoubleVeriTipi\obj\Debug\DoubleVeriTipi.pdb

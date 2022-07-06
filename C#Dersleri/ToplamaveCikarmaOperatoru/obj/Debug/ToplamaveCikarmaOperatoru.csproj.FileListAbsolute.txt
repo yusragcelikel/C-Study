@@ -1,0 +1,8 @@
+C:\C#Dersleri\ToplamaveCikarmaOperatoru\bin\Debug\ToplamaveCikarmaOperatoru.exe.config
+C:\C#Dersleri\ToplamaveCikarmaOperatoru\bin\Debug\ToplamaveCikarmaOperatoru.exe
+C:\C#Dersleri\ToplamaveCikarmaOperatoru\bin\Debug\ToplamaveCikarmaOperatoru.pdb
+C:\C#Dersleri\ToplamaveCikarmaOperatoru\obj\Debug\ToplamaveCikarmaOperatoru.csproj.AssemblyReference.cache
+C:\C#Dersleri\ToplamaveCikarmaOperatoru\obj\Debug\ToplamaveCikarmaOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\ToplamaveCikarmaOperatoru\obj\Debug\ToplamaveCikarmaOperatoru.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\ToplamaveCikarmaOperatoru\obj\Debug\ToplamaveCikarmaOperatoru.exe
+C:\C#Dersleri\ToplamaveCikarmaOperatoru\obj\Debug\ToplamaveCikarmaOperatoru.pdb

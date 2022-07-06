@@ -1,0 +1,8 @@
+C:\C#Dersleri\CarpmaveBolmeOperatoru\bin\Debug\CarpmaveBolmeOperatoru.exe.config
+C:\C#Dersleri\CarpmaveBolmeOperatoru\bin\Debug\CarpmaveBolmeOperatoru.exe
+C:\C#Dersleri\CarpmaveBolmeOperatoru\bin\Debug\CarpmaveBolmeOperatoru.pdb
+C:\C#Dersleri\CarpmaveBolmeOperatoru\obj\Debug\CarpmaveBolmeOperatoru.csproj.AssemblyReference.cache
+C:\C#Dersleri\CarpmaveBolmeOperatoru\obj\Debug\CarpmaveBolmeOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\CarpmaveBolmeOperatoru\obj\Debug\CarpmaveBolmeOperatoru.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\CarpmaveBolmeOperatoru\obj\Debug\CarpmaveBolmeOperatoru.exe
+C:\C#Dersleri\CarpmaveBolmeOperatoru\obj\Debug\CarpmaveBolmeOperatoru.pdb

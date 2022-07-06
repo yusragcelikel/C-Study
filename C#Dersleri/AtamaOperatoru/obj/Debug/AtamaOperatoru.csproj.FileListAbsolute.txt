@@ -1,0 +1,8 @@
+C:\C#Dersleri\AtamaOperatoru\obj\Debug\AtamaOperatoru.csproj.AssemblyReference.cache
+C:\C#Dersleri\AtamaOperatoru\obj\Debug\AtamaOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\AtamaOperatoru\obj\Debug\AtamaOperatoru.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\AtamaOperatoru\bin\Debug\AtamaOperatoru.exe.config
+C:\C#Dersleri\AtamaOperatoru\bin\Debug\AtamaOperatoru.exe
+C:\C#Dersleri\AtamaOperatoru\bin\Debug\AtamaOperatoru.pdb
+C:\C#Dersleri\AtamaOperatoru\obj\Debug\AtamaOperatoru.exe
+C:\C#Dersleri\AtamaOperatoru\obj\Debug\AtamaOperatoru.pdb

@@ -1,0 +1,8 @@
+C:\C#Dersleri\ModAlmaOperatoru\bin\Debug\ModAlmaOperatoru.exe.config
+C:\C#Dersleri\ModAlmaOperatoru\bin\Debug\ModAlmaOperatoru.exe
+C:\C#Dersleri\ModAlmaOperatoru\bin\Debug\ModAlmaOperatoru.pdb
+C:\C#Dersleri\ModAlmaOperatoru\obj\Debug\ModAlmaOperatoru.csproj.AssemblyReference.cache
+C:\C#Dersleri\ModAlmaOperatoru\obj\Debug\ModAlmaOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\ModAlmaOperatoru\obj\Debug\ModAlmaOperatoru.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\ModAlmaOperatoru\obj\Debug\ModAlmaOperatoru.exe
+C:\C#Dersleri\ModAlmaOperatoru\obj\Debug\ModAlmaOperatoru.pdb

@@ -1,0 +1,8 @@
+C:\C#Dersleri\EsitDegildirOperatoru\bin\Debug\EsitDegildirOperatoru.exe.config
+C:\C#Dersleri\EsitDegildirOperatoru\bin\Debug\EsitDegildirOperatoru.exe
+C:\C#Dersleri\EsitDegildirOperatoru\bin\Debug\EsitDegildirOperatoru.pdb
+C:\C#Dersleri\EsitDegildirOperatoru\obj\Debug\EsitDegildirOperatoru.csproj.AssemblyReference.cache
+C:\C#Dersleri\EsitDegildirOperatoru\obj\Debug\EsitDegildirOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\EsitDegildirOperatoru\obj\Debug\EsitDegildirOperatoru.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\EsitDegildirOperatoru\obj\Debug\EsitDegildirOperatoru.exe
+C:\C#Dersleri\EsitDegildirOperatoru\obj\Debug\EsitDegildirOperatoru.pdb

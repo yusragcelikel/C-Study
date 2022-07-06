@@ -1,0 +1,8 @@
+C:\C#Dersleri\ShortVeriTipi\IntVeriTipi\bin\Debug\IntVeriTipi.exe.config
+C:\C#Dersleri\ShortVeriTipi\IntVeriTipi\bin\Debug\IntVeriTipi.exe
+C:\C#Dersleri\ShortVeriTipi\IntVeriTipi\bin\Debug\IntVeriTipi.pdb
+C:\C#Dersleri\ShortVeriTipi\IntVeriTipi\obj\Debug\IntVeriTipi.csproj.AssemblyReference.cache
+C:\C#Dersleri\ShortVeriTipi\IntVeriTipi\obj\Debug\IntVeriTipi.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\ShortVeriTipi\IntVeriTipi\obj\Debug\IntVeriTipi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\ShortVeriTipi\IntVeriTipi\obj\Debug\IntVeriTipi.exe
+C:\C#Dersleri\ShortVeriTipi\IntVeriTipi\obj\Debug\IntVeriTipi.pdb

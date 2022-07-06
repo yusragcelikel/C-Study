@@ -1,0 +1,8 @@
+C:\C#Dersleri\DegilOperatoru\bin\Debug\DegilOperatoru.exe.config
+C:\C#Dersleri\DegilOperatoru\bin\Debug\DegilOperatoru.exe
+C:\C#Dersleri\DegilOperatoru\bin\Debug\DegilOperatoru.pdb
+C:\C#Dersleri\DegilOperatoru\obj\Debug\DegilOperatoru.csproj.AssemblyReference.cache
+C:\C#Dersleri\DegilOperatoru\obj\Debug\DegilOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\DegilOperatoru\obj\Debug\DegilOperatoru.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\DegilOperatoru\obj\Debug\DegilOperatoru.exe
+C:\C#Dersleri\DegilOperatoru\obj\Debug\DegilOperatoru.pdb

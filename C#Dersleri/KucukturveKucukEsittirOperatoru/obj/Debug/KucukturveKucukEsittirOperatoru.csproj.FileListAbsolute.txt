@@ -1,0 +1,8 @@
+C:\C#Dersleri\KucukturveKucukEsittirOperatoru\bin\Debug\KucukturveKucukEsittirOperatoru.exe.config
+C:\C#Dersleri\KucukturveKucukEsittirOperatoru\bin\Debug\KucukturveKucukEsittirOperatoru.exe
+C:\C#Dersleri\KucukturveKucukEsittirOperatoru\bin\Debug\KucukturveKucukEsittirOperatoru.pdb
+C:\C#Dersleri\KucukturveKucukEsittirOperatoru\obj\Debug\KucukturveKucukEsittirOperatoru.csproj.AssemblyReference.cache
+C:\C#Dersleri\KucukturveKucukEsittirOperatoru\obj\Debug\KucukturveKucukEsittirOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\KucukturveKucukEsittirOperatoru\obj\Debug\KucukturveKucukEsittirOperatoru.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\KucukturveKucukEsittirOperatoru\obj\Debug\KucukturveKucukEsittirOperatoru.exe
+C:\C#Dersleri\KucukturveKucukEsittirOperatoru\obj\Debug\KucukturveKucukEsittirOperatoru.pdb

@@ -1,0 +1,8 @@
+C:\C#Dersleri\LongVeriTipi\bin\Debug\LongVeriTipi.exe.config
+C:\C#Dersleri\LongVeriTipi\bin\Debug\LongVeriTipi.exe
+C:\C#Dersleri\LongVeriTipi\bin\Debug\LongVeriTipi.pdb
+C:\C#Dersleri\LongVeriTipi\obj\Debug\LongVeriTipi.csproj.AssemblyReference.cache
+C:\C#Dersleri\LongVeriTipi\obj\Debug\LongVeriTipi.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\LongVeriTipi\obj\Debug\LongVeriTipi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\LongVeriTipi\obj\Debug\LongVeriTipi.exe
+C:\C#Dersleri\LongVeriTipi\obj\Debug\LongVeriTipi.pdb

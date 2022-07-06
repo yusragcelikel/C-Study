@@ -1,0 +1,8 @@
+C:\C#Dersleri\ByteProjesi\ByteProjesi\bin\Debug\ByteProjesi.exe.config
+C:\C#Dersleri\ByteProjesi\ByteProjesi\bin\Debug\ByteProjesi.exe
+C:\C#Dersleri\ByteProjesi\ByteProjesi\bin\Debug\ByteProjesi.pdb
+C:\C#Dersleri\ByteProjesi\ByteProjesi\obj\Debug\ByteProjesi.csproj.AssemblyReference.cache
+C:\C#Dersleri\ByteProjesi\ByteProjesi\obj\Debug\ByteProjesi.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\ByteProjesi\ByteProjesi\obj\Debug\ByteProjesi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\ByteProjesi\ByteProjesi\obj\Debug\ByteProjesi.exe
+C:\C#Dersleri\ByteProjesi\ByteProjesi\obj\Debug\ByteProjesi.pdb

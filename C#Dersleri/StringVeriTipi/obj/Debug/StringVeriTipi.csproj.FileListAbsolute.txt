@@ -1,0 +1,8 @@
+C:\C#Dersleri\StringVeriTipi\bin\Debug\StringVeriTipi.exe.config
+C:\C#Dersleri\StringVeriTipi\bin\Debug\StringVeriTipi.exe
+C:\C#Dersleri\StringVeriTipi\bin\Debug\StringVeriTipi.pdb
+C:\C#Dersleri\StringVeriTipi\obj\Debug\StringVeriTipi.csproj.AssemblyReference.cache
+C:\C#Dersleri\StringVeriTipi\obj\Debug\StringVeriTipi.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\StringVeriTipi\obj\Debug\StringVeriTipi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\StringVeriTipi\obj\Debug\StringVeriTipi.exe
+C:\C#Dersleri\StringVeriTipi\obj\Debug\StringVeriTipi.pdb
