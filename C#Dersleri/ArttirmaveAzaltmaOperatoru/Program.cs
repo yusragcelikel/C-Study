@@ -21,15 +21,12 @@ namespace ArttirmaveAzaltmaOperatoru
 
             sayi--;
 
-            Console.WriteLine(sayi);
-
-            sayi--;
 
             Console.WriteLine(sayi);
 
-            Console.ReadLine(); // 
+            Console.ReadLine(); 
 
-            //------------------
+            
 
         }
     }
