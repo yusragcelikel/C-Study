@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AnonymousVeriTipi",
+    "\\AnonymousVeriTipi\\AnonymousVeriTipi"
   ],
-  "SelectedNode": "\\VeyaOperatoru",
+  "SelectedNode": "\\AnonymousVeriTipi\\AnonymousVeriTipi\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
