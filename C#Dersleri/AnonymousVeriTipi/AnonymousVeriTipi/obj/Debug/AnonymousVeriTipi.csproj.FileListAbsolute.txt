@@ -1,0 +1,8 @@
+C:\C#Dersleri\AnonymousVeriTipi\AnonymousVeriTipi\bin\Debug\AnonymousVeriTipi.exe.config
+C:\C#Dersleri\AnonymousVeriTipi\AnonymousVeriTipi\bin\Debug\AnonymousVeriTipi.exe
+C:\C#Dersleri\AnonymousVeriTipi\AnonymousVeriTipi\bin\Debug\AnonymousVeriTipi.pdb
+C:\C#Dersleri\AnonymousVeriTipi\AnonymousVeriTipi\obj\Debug\AnonymousVeriTipi.csproj.AssemblyReference.cache
+C:\C#Dersleri\AnonymousVeriTipi\AnonymousVeriTipi\obj\Debug\AnonymousVeriTipi.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\AnonymousVeriTipi\AnonymousVeriTipi\obj\Debug\AnonymousVeriTipi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\AnonymousVeriTipi\AnonymousVeriTipi\obj\Debug\AnonymousVeriTipi.exe
+C:\C#Dersleri\AnonymousVeriTipi\AnonymousVeriTipi\obj\Debug\AnonymousVeriTipi.pdb
