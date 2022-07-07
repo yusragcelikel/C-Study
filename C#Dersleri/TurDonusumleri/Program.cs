@@ -28,10 +28,14 @@ namespace TurDonusumleri
             //   --------------------------------------
 
 
+
+
+
             //    ***************** String'den integer'a donusturme *****************
 
 
             /*
+             * 
             string sayi_1 = "1";
             string sayi_2 = "2";
             
@@ -51,6 +55,7 @@ namespace TurDonusumleri
 
 
             Console.WriteLine(a + b);
+
             */
 
 
@@ -58,7 +63,8 @@ namespace TurDonusumleri
             //    ***************** Integer'dan string'e donusturme *****************
 
 
-
+            /*
+             
             int sayi_1 = 5;
             int sayi_2 = 10;
 
@@ -67,6 +73,55 @@ namespace TurDonusumleri
 
 
             Console.WriteLine(b + a);
+
+            */
+
+
+
+            //   ---------------------------------------------------
+
+
+
+
+            //    ***************** Double veri tipinden integer veri tipine dönüştürme  *****************
+
+            /*
+
+            double sayi = 5.22;
+
+            Console.WriteLine(sayi);
+            Console.WriteLine(sayi.GetType());
+
+            double sayi1 = 5.22;
+
+            int a = Convert.ToInt32(sayi1);
+
+          //int b = int.Parse(sayi1);   // hata verir. Hata sebebi; önce stringe dönüştürmemizi ister.  
+
+            Console.WriteLine(a);
+            Console.WriteLine(a.GetType());
+
+            */
+            
+
+            
+
+            //    ***************** kulllanıcıdan 2 sayıyı ala ve ikisinin toplamını akrana yazan program  *****************
+
+
+            Console.WriteLine("Lütfen bir sayı giriniz:");
+            string a = Console.ReadLine();
+            int a_Int = int.Parse(a);
+
+            Console.WriteLine("Lütfen bir sayı giriniz:");
+            string b = Console.ReadLine();
+            int b_Int = int.Parse(b);
+
+            Console.WriteLine("Girilen iki sayının toplamı:");
+            Console.WriteLine(a_Int + b_Int);
+
+
+
 
             Console.ReadLine();
             
