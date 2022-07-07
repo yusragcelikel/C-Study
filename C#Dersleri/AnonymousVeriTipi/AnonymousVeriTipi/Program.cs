@@ -38,7 +38,7 @@ namespace AnonymousVeriTipi
 
 
 
-            //
+            // bu bi yorumdur
 
             Console.ReadLine();
 
