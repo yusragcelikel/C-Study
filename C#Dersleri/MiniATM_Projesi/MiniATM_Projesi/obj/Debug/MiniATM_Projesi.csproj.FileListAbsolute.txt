@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MiniATM_Projesi\MiniATM_Projesi\bin\Debug\MiniATM_Projesi.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MiniATM_Projesi\MiniATM_Projesi\bin\Debug\MiniATM_Projesi.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MiniATM_Projesi\MiniATM_Projesi\bin\Debug\MiniATM_Projesi.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MiniATM_Projesi\MiniATM_Projesi\obj\Debug\MiniATM_Projesi.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MiniATM_Projesi\MiniATM_Projesi\obj\Debug\MiniATM_Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MiniATM_Projesi\MiniATM_Projesi\obj\Debug\MiniATM_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MiniATM_Projesi\MiniATM_Projesi\obj\Debug\MiniATM_Projesi.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MiniATM_Projesi\MiniATM_Projesi\obj\Debug\MiniATM_Projesi.pdb

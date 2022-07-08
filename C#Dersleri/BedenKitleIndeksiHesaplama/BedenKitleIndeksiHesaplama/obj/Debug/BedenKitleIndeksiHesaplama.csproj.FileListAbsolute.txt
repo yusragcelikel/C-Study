@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BedenKitleIndeksiHesaplama\BedenKitleIndeksiHesaplama\bin\Debug\BedenKitleIndeksiHesaplama.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BedenKitleIndeksiHesaplama\BedenKitleIndeksiHesaplama\bin\Debug\BedenKitleIndeksiHesaplama.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BedenKitleIndeksiHesaplama\BedenKitleIndeksiHesaplama\bin\Debug\BedenKitleIndeksiHesaplama.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BedenKitleIndeksiHesaplama\BedenKitleIndeksiHesaplama\obj\Debug\BedenKitleIndeksiHesaplama.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BedenKitleIndeksiHesaplama\BedenKitleIndeksiHesaplama\obj\Debug\BedenKitleIndeksiHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BedenKitleIndeksiHesaplama\BedenKitleIndeksiHesaplama\obj\Debug\BedenKitleIndeksiHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BedenKitleIndeksiHesaplama\BedenKitleIndeksiHesaplama\obj\Debug\BedenKitleIndeksiHesaplama.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BedenKitleIndeksiHesaplama\BedenKitleIndeksiHesaplama\obj\Debug\BedenKitleIndeksiHesaplama.pdb

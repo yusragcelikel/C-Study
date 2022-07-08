@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KosulYapisiNotOrnegi\KosulYapisiNotOrnegi\bin\Debug\KosulYapisiNotOrnegi.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KosulYapisiNotOrnegi\KosulYapisiNotOrnegi\bin\Debug\KosulYapisiNotOrnegi.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KosulYapisiNotOrnegi\KosulYapisiNotOrnegi\bin\Debug\KosulYapisiNotOrnegi.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KosulYapisiNotOrnegi\KosulYapisiNotOrnegi\obj\Debug\KosulYapisiNotOrnegi.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KosulYapisiNotOrnegi\KosulYapisiNotOrnegi\obj\Debug\KosulYapisiNotOrnegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KosulYapisiNotOrnegi\KosulYapisiNotOrnegi\obj\Debug\KosulYapisiNotOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KosulYapisiNotOrnegi\KosulYapisiNotOrnegi\obj\Debug\KosulYapisiNotOrnegi.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KosulYapisiNotOrnegi\KosulYapisiNotOrnegi\obj\Debug\KosulYapisiNotOrnegi.pdb

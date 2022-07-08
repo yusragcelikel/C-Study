@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KararYapilari_if-else\KararYapilari_if-else\bin\Debug\KararYapilari_if-else.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KararYapilari_if-else\KararYapilari_if-else\bin\Debug\KararYapilari_if-else.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KararYapilari_if-else\KararYapilari_if-else\bin\Debug\KararYapilari_if-else.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KararYapilari_if-else\KararYapilari_if-else\obj\Debug\KararYapilari_if-else.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KararYapilari_if-else\KararYapilari_if-else\obj\Debug\KararYapilari_if-else.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KararYapilari_if-else\KararYapilari_if-else\obj\Debug\KararYapilari_if-else.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KararYapilari_if-else\KararYapilari_if-else\obj\Debug\KararYapilari_if-else.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KararYapilari_if-else\KararYapilari_if-else\obj\Debug\KararYapilari_if-else.pdb
