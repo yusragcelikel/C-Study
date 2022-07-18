@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BreakveContinueAnahtarKelimeleri\BreakveContinueAnahtarKelimeleri\bin\Debug\BreakveContinueAnahtarKelimeleri.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BreakveContinueAnahtarKelimeleri\BreakveContinueAnahtarKelimeleri\bin\Debug\BreakveContinueAnahtarKelimeleri.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BreakveContinueAnahtarKelimeleri\BreakveContinueAnahtarKelimeleri\bin\Debug\BreakveContinueAnahtarKelimeleri.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BreakveContinueAnahtarKelimeleri\BreakveContinueAnahtarKelimeleri\obj\Debug\BreakveContinueAnahtarKelimeleri.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BreakveContinueAnahtarKelimeleri\BreakveContinueAnahtarKelimeleri\obj\Debug\BreakveContinueAnahtarKelimeleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BreakveContinueAnahtarKelimeleri\BreakveContinueAnahtarKelimeleri\obj\Debug\BreakveContinueAnahtarKelimeleri.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BreakveContinueAnahtarKelimeleri\BreakveContinueAnahtarKelimeleri\obj\Debug\BreakveContinueAnahtarKelimeleri.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\BreakveContinueAnahtarKelimeleri\BreakveContinueAnahtarKelimeleri\obj\Debug\BreakveContinueAnahtarKelimeleri.pdb

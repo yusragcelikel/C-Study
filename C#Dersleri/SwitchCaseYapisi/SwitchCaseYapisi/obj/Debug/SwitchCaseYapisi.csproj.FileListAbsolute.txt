@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\SwitchCaseYapisi\SwitchCaseYapisi\bin\Debug\SwitchCaseYapisi.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\SwitchCaseYapisi\SwitchCaseYapisi\bin\Debug\SwitchCaseYapisi.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\SwitchCaseYapisi\SwitchCaseYapisi\bin\Debug\SwitchCaseYapisi.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\SwitchCaseYapisi\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.pdb

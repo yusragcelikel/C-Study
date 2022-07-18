@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DoWhileDongusu\DoWhileDongusu\bin\Debug\DoWhileDongusu.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DoWhileDongusu\DoWhileDongusu\bin\Debug\DoWhileDongusu.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DoWhileDongusu\DoWhileDongusu\bin\Debug\DoWhileDongusu.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DoWhileDongusu\DoWhileDongusu\obj\Debug\DoWhileDongusu.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DoWhileDongusu\DoWhileDongusu\obj\Debug\DoWhileDongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DoWhileDongusu\DoWhileDongusu\obj\Debug\DoWhileDongusu.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DoWhileDongusu\DoWhileDongusu\obj\Debug\DoWhileDongusu.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DoWhileDongusu\DoWhileDongusu\obj\Debug\DoWhileDongusu.pdb

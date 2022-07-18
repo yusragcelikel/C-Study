@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuOrnek\ForDongusuOrnek\bin\Debug\ForDongusuOrnek.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuOrnek\ForDongusuOrnek\bin\Debug\ForDongusuOrnek.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuOrnek\ForDongusuOrnek\bin\Debug\ForDongusuOrnek.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuOrnek\ForDongusuOrnek\obj\Debug\ForDongusuOrnek.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuOrnek\ForDongusuOrnek\obj\Debug\ForDongusuOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuOrnek\ForDongusuOrnek\obj\Debug\ForDongusuOrnek.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuOrnek\ForDongusuOrnek\obj\Debug\ForDongusuOrnek.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuOrnek\ForDongusuOrnek\obj\Debug\ForDongusuOrnek.pdb

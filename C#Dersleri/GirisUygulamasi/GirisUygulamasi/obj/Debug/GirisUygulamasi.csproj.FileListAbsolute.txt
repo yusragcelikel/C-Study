@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\GirisUygulamasi\GirisUygulamasi\obj\Debug\GirisUygulamasi.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\GirisUygulamasi\GirisUygulamasi\obj\Debug\GirisUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\GirisUygulamasi\GirisUygulamasi\obj\Debug\GirisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\GirisUygulamasi\GirisUygulamasi\bin\Debug\GirisUygulamasi.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\GirisUygulamasi\GirisUygulamasi\bin\Debug\GirisUygulamasi.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\GirisUygulamasi\GirisUygulamasi\bin\Debug\GirisUygulamasi.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\GirisUygulamasi\GirisUygulamasi\obj\Debug\GirisUygulamasi.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\GirisUygulamasi\GirisUygulamasi\obj\Debug\GirisUygulamasi.pdb

@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\WhileDongusuPratik\WhileDongusuPratik\bin\Debug\WhileDongusuPratik.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\WhileDongusuPratik\WhileDongusuPratik\bin\Debug\WhileDongusuPratik.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\WhileDongusuPratik\WhileDongusuPratik\bin\Debug\WhileDongusuPratik.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\WhileDongusuPratik\WhileDongusuPratik\obj\Debug\WhileDongusuPratik.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\WhileDongusuPratik\WhileDongusuPratik\obj\Debug\WhileDongusuPratik.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\WhileDongusuPratik\WhileDongusuPratik\obj\Debug\WhileDongusuPratik.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\WhileDongusuPratik\WhileDongusuPratik\obj\Debug\WhileDongusuPratik.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\WhileDongusuPratik\WhileDongusuPratik\obj\Debug\WhileDongusuPratik.pdb
