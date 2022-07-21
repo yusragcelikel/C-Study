@@ -36,7 +36,18 @@ namespace SwitchCaseNotOrtalamasıOrnegi
             var not_ort = (ilk_not + ikinci_not + ucuncu_not) / 3;
 
 
-            switch ( not_ort )  // case'lerde aralık yoktur, çoklu case kullanmak durumundayız.
+
+            // The switch cases must be unique constant values. 
+            // It can be bool, char, string, integer, enum, or corresponding nullable type.
+            // You cannot have range in case.
+            // You have to use multiple case.
+
+            // switch case'lerde sabit değerler kullanılmalı
+            // bool, char, string, integer, enum veya Null yapılabilir bir değer türü olabilir.
+            // case'lerde aralık yoktur, çoklu case kullanmak durumundayız.
+
+
+            switch ( not_ort )  
             {
                 case 100:
                 case 99:
