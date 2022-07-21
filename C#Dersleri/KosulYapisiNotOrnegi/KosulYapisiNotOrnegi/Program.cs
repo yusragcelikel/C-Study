@@ -34,7 +34,7 @@ namespace KosulYapisiNotOrnegi
 
             int average = (firstGrade_int + secondGrade_int + thirdGrade_int) / 3;
 
-            if (average <= 100 && average >= 80)
+            if (average <= 100 || average >= 80)
             {
                 Console.WriteLine(dersinAdi + " dersinin harf karsiliği: A+");
                 Console.ReadLine();

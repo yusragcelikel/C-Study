@@ -25,7 +25,7 @@ namespace ForDondusuPratik
                         Console.ReadLine();
 
 
-            */
+            
 
             // 1den 10a kadar olan çift sayıları yazdırma
 
@@ -36,6 +36,22 @@ namespace ForDondusuPratik
                 Console.WriteLine(i);
 
             }
+
+            */
+
+            Console.WriteLine("bir sayı giriniz");
+            var sayi = Convert.ToInt32(Console.ReadLine());
+
+            int toplam = 0;
+
+            for (int i  = 1; i <= sayi; i++)
+            {
+                toplam = toplam + i;
+                
+            }
+
+
+            Console.WriteLine(toplam);
 
             Console.ReadLine();
 

@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\KosulYapisiNotOrnegi",
+    "\\KosulYapisiNotOrnegi\\KosulYapisiNotOrnegi",
+    "\\MiniATM_Projesi\\MiniATM_Projesi",
+    "\\SwitchCaseYapisi\\SwitchCaseYapisi"
   ],
+  "SelectedNode": "\\KosulYapisiNotOrnegi\\KosulYapisiNotOrnegi\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
