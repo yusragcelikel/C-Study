@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGirisDevam\DizilerGirisDevam\bin\Debug\DizilerGirisDevam.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGirisDevam\DizilerGirisDevam\bin\Debug\DizilerGirisDevam.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGirisDevam\DizilerGirisDevam\bin\Debug\DizilerGirisDevam.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGirisDevam\DizilerGirisDevam\obj\Debug\DizilerGirisDevam.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGirisDevam\DizilerGirisDevam\obj\Debug\DizilerGirisDevam.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGirisDevam\DizilerGirisDevam\obj\Debug\DizilerGirisDevam.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGirisDevam\DizilerGirisDevam\obj\Debug\DizilerGirisDevam.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGirisDevam\DizilerGirisDevam\obj\Debug\DizilerGirisDevam.pdb

@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\CarpimTablosuOrnegi2\CarpimTablosuOrnegi2\obj\Debug\CarpimTablosuOrnegi2.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\CarpimTablosuOrnegi2\CarpimTablosuOrnegi2\obj\Debug\CarpimTablosuOrnegi2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\CarpimTablosuOrnegi2\CarpimTablosuOrnegi2\obj\Debug\CarpimTablosuOrnegi2.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\CarpimTablosuOrnegi2\CarpimTablosuOrnegi2\bin\Debug\CarpimTablosuOrnegi2.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\CarpimTablosuOrnegi2\CarpimTablosuOrnegi2\bin\Debug\CarpimTablosuOrnegi2.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\CarpimTablosuOrnegi2\CarpimTablosuOrnegi2\bin\Debug\CarpimTablosuOrnegi2.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\CarpimTablosuOrnegi2\CarpimTablosuOrnegi2\obj\Debug\CarpimTablosuOrnegi2.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\CarpimTablosuOrnegi2\CarpimTablosuOrnegi2\obj\Debug\CarpimTablosuOrnegi2.pdb

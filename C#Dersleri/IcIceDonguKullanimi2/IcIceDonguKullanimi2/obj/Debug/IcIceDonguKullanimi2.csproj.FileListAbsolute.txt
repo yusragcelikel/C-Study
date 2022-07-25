@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\IcIceDonguKullanimi2\IcIceDonguKullanimi2\bin\Debug\IcIceDonguKullanimi2.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\IcIceDonguKullanimi2\IcIceDonguKullanimi2\bin\Debug\IcIceDonguKullanimi2.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\IcIceDonguKullanimi2\IcIceDonguKullanimi2\bin\Debug\IcIceDonguKullanimi2.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\IcIceDonguKullanimi2\IcIceDonguKullanimi2\obj\Debug\IcIceDonguKullanimi2.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\IcIceDonguKullanimi2\IcIceDonguKullanimi2\obj\Debug\IcIceDonguKullanimi2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\IcIceDonguKullanimi2\IcIceDonguKullanimi2\obj\Debug\IcIceDonguKullanimi2.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\IcIceDonguKullanimi2\IcIceDonguKullanimi2\obj\Debug\IcIceDonguKullanimi2.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\IcIceDonguKullanimi2\IcIceDonguKullanimi2\obj\Debug\IcIceDonguKullanimi2.pdb

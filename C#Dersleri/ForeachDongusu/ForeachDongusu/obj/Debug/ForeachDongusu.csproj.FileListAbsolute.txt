@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForeachDongusu\ForeachDongusu\bin\Debug\ForeachDongusu.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForeachDongusu\ForeachDongusu\bin\Debug\ForeachDongusu.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForeachDongusu\ForeachDongusu\bin\Debug\ForeachDongusu.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForeachDongusu\ForeachDongusu\obj\Debug\ForeachDongusu.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForeachDongusu\ForeachDongusu\obj\Debug\ForeachDongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForeachDongusu\ForeachDongusu\obj\Debug\ForeachDongusu.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForeachDongusu\ForeachDongusu\obj\Debug\ForeachDongusu.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForeachDongusu\ForeachDongusu\obj\Debug\ForeachDongusu.pdb

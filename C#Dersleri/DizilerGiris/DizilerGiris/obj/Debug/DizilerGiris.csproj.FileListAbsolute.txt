@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGiris\DizilerGiris\bin\Debug\DizilerGiris.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGiris\DizilerGiris\bin\Debug\DizilerGiris.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGiris\DizilerGiris\bin\Debug\DizilerGiris.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGiris\DizilerGiris\obj\Debug\DizilerGiris.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGiris\DizilerGiris\obj\Debug\DizilerGiris.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGiris\DizilerGiris\obj\Debug\DizilerGiris.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGiris\DizilerGiris\obj\Debug\DizilerGiris.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerGiris\DizilerGiris\obj\Debug\DizilerGiris.pdb

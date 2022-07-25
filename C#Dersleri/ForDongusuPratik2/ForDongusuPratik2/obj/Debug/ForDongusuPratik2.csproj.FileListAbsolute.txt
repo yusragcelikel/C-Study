@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuPratik2\ForDongusuPratik2\obj\Debug\ForDongusuPratik2.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuPratik2\ForDongusuPratik2\obj\Debug\ForDongusuPratik2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuPratik2\ForDongusuPratik2\obj\Debug\ForDongusuPratik2.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuPratik2\ForDongusuPratik2\bin\Debug\ForDongusuPratik2.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuPratik2\ForDongusuPratik2\bin\Debug\ForDongusuPratik2.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuPratik2\ForDongusuPratik2\bin\Debug\ForDongusuPratik2.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuPratik2\ForDongusuPratik2\obj\Debug\ForDongusuPratik2.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\ForDongusuPratik2\ForDongusuPratik2\obj\Debug\ForDongusuPratik2.pdb
