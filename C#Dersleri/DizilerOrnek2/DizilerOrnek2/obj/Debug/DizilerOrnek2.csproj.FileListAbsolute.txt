@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerOrnek2\DizilerOrnek2\bin\Debug\DizilerOrnek2.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerOrnek2\DizilerOrnek2\bin\Debug\DizilerOrnek2.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerOrnek2\DizilerOrnek2\bin\Debug\DizilerOrnek2.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerOrnek2\DizilerOrnek2\obj\Debug\DizilerOrnek2.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerOrnek2\DizilerOrnek2\obj\Debug\DizilerOrnek2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerOrnek2\DizilerOrnek2\obj\Debug\DizilerOrnek2.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerOrnek2\DizilerOrnek2\obj\Debug\DizilerOrnek2.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DizilerOrnek2\DizilerOrnek2\obj\Debug\DizilerOrnek2.pdb

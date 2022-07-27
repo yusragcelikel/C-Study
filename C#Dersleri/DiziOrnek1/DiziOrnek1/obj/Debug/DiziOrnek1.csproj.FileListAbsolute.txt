@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DiziOrnek1\DiziOrnek1\obj\Debug\DiziOrnek1.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DiziOrnek1\DiziOrnek1\obj\Debug\DiziOrnek1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DiziOrnek1\DiziOrnek1\obj\Debug\DiziOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DiziOrnek1\DiziOrnek1\bin\Debug\DiziOrnek1.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DiziOrnek1\DiziOrnek1\bin\Debug\DiziOrnek1.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DiziOrnek1\DiziOrnek1\bin\Debug\DiziOrnek1.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DiziOrnek1\DiziOrnek1\obj\Debug\DiziOrnek1.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\DiziOrnek1\DiziOrnek1\obj\Debug\DiziOrnek1.pdb

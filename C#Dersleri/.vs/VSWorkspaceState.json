@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ForDondusuPratik",
-    "\\ForDondusuPratik\\ForDondusuPratik"
+    "\\DiziKullanıcıdanDegerAlma\\DiziKullanıcıdanDegerAlma",
+    "\\DizilerGirisDevam\\DizilerGirisDevam",
+    "\\DizilerGiris\\DizilerGiris",
+    "\\ForDondusuPratik\\ForDondusuPratik",
+    "\\ForeachDongusu\\ForeachDongusu"
   ],
-  "SelectedNode": "\\ForDondusuPratik\\ForDondusuPratik\\Program.cs",
+  "SelectedNode": "\\ForeachDongusu",
   "PreviewInSolutionExplorer": false
 }
