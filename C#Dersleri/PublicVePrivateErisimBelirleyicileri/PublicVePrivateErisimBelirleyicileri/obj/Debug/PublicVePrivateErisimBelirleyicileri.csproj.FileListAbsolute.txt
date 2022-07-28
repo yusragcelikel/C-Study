@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\PublicVePrivateErisimBelirleyicileri\PublicVePrivateErisimBelirleyicileri\bin\Debug\PublicVePrivateErisimBelirleyicileri.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\PublicVePrivateErisimBelirleyicileri\PublicVePrivateErisimBelirleyicileri\bin\Debug\PublicVePrivateErisimBelirleyicileri.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\PublicVePrivateErisimBelirleyicileri\PublicVePrivateErisimBelirleyicileri\bin\Debug\PublicVePrivateErisimBelirleyicileri.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\PublicVePrivateErisimBelirleyicileri\PublicVePrivateErisimBelirleyicileri\obj\Debug\PublicVePrivateErisimBelirleyicileri.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\PublicVePrivateErisimBelirleyicileri\PublicVePrivateErisimBelirleyicileri\obj\Debug\PublicVePrivateErisimBelirleyicileri.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\PublicVePrivateErisimBelirleyicileri\PublicVePrivateErisimBelirleyicileri\obj\Debug\PublicVePrivateErisimBelirleyicileri.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\PublicVePrivateErisimBelirleyicileri\PublicVePrivateErisimBelirleyicileri\obj\Debug\PublicVePrivateErisimBelirleyicileri.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\PublicVePrivateErisimBelirleyicileri\PublicVePrivateErisimBelirleyicileri\obj\Debug\PublicVePrivateErisimBelirleyicileri.pdb

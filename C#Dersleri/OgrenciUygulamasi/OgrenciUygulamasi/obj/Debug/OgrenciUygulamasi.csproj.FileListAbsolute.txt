@@ -1,0 +1,3 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.csproj.CoreCompileInputs.cache

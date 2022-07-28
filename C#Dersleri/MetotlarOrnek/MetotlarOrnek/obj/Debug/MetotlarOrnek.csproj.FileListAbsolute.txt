@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarOrnek\MetotlarOrnek\obj\Debug\MetotlarOrnek.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarOrnek\MetotlarOrnek\obj\Debug\MetotlarOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarOrnek\MetotlarOrnek\obj\Debug\MetotlarOrnek.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarOrnek\MetotlarOrnek\bin\Debug\MetotlarOrnek.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarOrnek\MetotlarOrnek\bin\Debug\MetotlarOrnek.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarOrnek\MetotlarOrnek\bin\Debug\MetotlarOrnek.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarOrnek\MetotlarOrnek\obj\Debug\MetotlarOrnek.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarOrnek\MetotlarOrnek\obj\Debug\MetotlarOrnek.pdb

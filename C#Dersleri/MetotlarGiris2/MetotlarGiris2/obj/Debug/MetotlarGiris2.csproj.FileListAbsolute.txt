@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarGiris2\MetotlarGiris2\bin\Debug\MetotlarGiris2.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarGiris2\MetotlarGiris2\bin\Debug\MetotlarGiris2.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarGiris2\MetotlarGiris2\bin\Debug\MetotlarGiris2.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarGiris2\MetotlarGiris2\obj\Debug\MetotlarGiris2.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarGiris2\MetotlarGiris2\obj\Debug\MetotlarGiris2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarGiris2\MetotlarGiris2\obj\Debug\MetotlarGiris2.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarGiris2\MetotlarGiris2\obj\Debug\MetotlarGiris2.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\MetotlarGiris2\MetotlarGiris2\obj\Debug\MetotlarGiris2.pdb
