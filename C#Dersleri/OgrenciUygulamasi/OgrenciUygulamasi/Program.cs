@@ -11,6 +11,8 @@ namespace OgrenciUygulamasi
         static void Main(string[] args)
         {
 
+            bool control = true;
+
             Student student1 = new Student(1, "Yusra Gokce", "Celikel", 50, 40, 73, "Inonu Universitesi");
 
             Console.WriteLine("Uygulamamıza hoşgeldiniz. Yapmak istediğiniz işlemi seçiniz: ");
@@ -18,7 +20,7 @@ namespace OgrenciUygulamasi
 
             string process_nu = Console.ReadLine();
 
-           while (true)
+           while (control)
             {
                 switch (process_nu)
                 {
@@ -29,9 +31,23 @@ namespace OgrenciUygulamasi
                         break;
 
                     case "2":
+
                         double average = student1.cal_grade();
 
                         break;
+
+                    case "3":
+
+                        student1.school();
+
+                        break;
+
+                    case "4":
+
+                        control = false;
+
+                        break;
+
 
                 }
             }
@@ -55,7 +71,7 @@ namespace OgrenciUygulamasi
 
 
 
-
+       // tobe continued...
 
 
 
