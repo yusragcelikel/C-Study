@@ -1,8 +1,0 @@
-C:\Users\gokce\OneDrive\Masaüstü\ADO.NET\FirstTry\FirstTry\bin\Debug\FirstTry.exe.config
-C:\Users\gokce\OneDrive\Masaüstü\ADO.NET\FirstTry\FirstTry\bin\Debug\FirstTry.exe
-C:\Users\gokce\OneDrive\Masaüstü\ADO.NET\FirstTry\FirstTry\bin\Debug\FirstTry.pdb
-C:\Users\gokce\OneDrive\Masaüstü\ADO.NET\FirstTry\FirstTry\obj\Debug\FirstTry.csproj.AssemblyReference.cache
-C:\Users\gokce\OneDrive\Masaüstü\ADO.NET\FirstTry\FirstTry\obj\Debug\FirstTry.csproj.SuggestedBindingRedirects.cache
-C:\Users\gokce\OneDrive\Masaüstü\ADO.NET\FirstTry\FirstTry\obj\Debug\FirstTry.csproj.CoreCompileInputs.cache
-C:\Users\gokce\OneDrive\Masaüstü\ADO.NET\FirstTry\FirstTry\obj\Debug\FirstTry.exe
-C:\Users\gokce\OneDrive\Masaüstü\ADO.NET\FirstTry\FirstTry\obj\Debug\FirstTry.pdb
