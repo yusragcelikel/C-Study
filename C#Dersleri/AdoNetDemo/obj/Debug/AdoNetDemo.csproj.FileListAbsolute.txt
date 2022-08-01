@@ -1,0 +1,11 @@
+C:\Users\oguz9\Documents\GitHub\C-Study\C#Dersleri\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\oguz9\Documents\GitHub\C-Study\C#Dersleri\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\oguz9\Documents\GitHub\C-Study\C#Dersleri\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\oguz9\Documents\GitHub\C-Study\C#Dersleri\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+C:\Users\oguz9\Documents\GitHub\C-Study\C#Dersleri\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\oguz9\Documents\GitHub\C-Study\C#Dersleri\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\Users\oguz9\Documents\GitHub\C-Study\C#Dersleri\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\oguz9\Documents\GitHub\C-Study\C#Dersleri\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\oguz9\Documents\GitHub\C-Study\C#Dersleri\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\oguz9\Documents\GitHub\C-Study\C#Dersleri\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\oguz9\Documents\GitHub\C-Study\C#Dersleri\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
