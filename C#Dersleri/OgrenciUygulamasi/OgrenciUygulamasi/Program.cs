@@ -6,55 +6,50 @@ using System.Threading.Tasks;
 
 namespace OgrenciUygulamasi
 {
-    internal class Program
+     class Program
     {
         static void Main(string[] args)
         {
 
             bool control = true;
 
-            Student student1 = new Student(1, "Yusra Gokce", "Celikel", 50, 40, 73, "Inonu Universitesi");
-
-            Console.WriteLine("Uygulamamıza hoşgeldiniz. Yapmak istediğiniz işlemi seçiniz: ");
+            Student student1 = new Student(1, "Yusra Gokce", "Celikel", 80, 85, 82, "Inonu Universitesi");
             guide_info();
+            Console.WriteLine("Uygulamamıza hoşgeldiniz. Yapmak istediğiniz işlemi seçiniz: ");
 
-            string process_nu = Console.ReadLine();
 
-           while (control)
+
+            while (control)
             {
+                string process_nu = Console.ReadLine();
+
                 switch (process_nu)
                 {
                     case "1":
 
                         student1.student_info();
-
                         break;
 
                     case "2":
 
                         double average = student1.cal_grade();
-
+                        Console.WriteLine("Öğrencinin ortalaması: " + average);
                         break;
 
                     case "3":
 
                         student1.school();
-
                         break;
 
                     case "4":
 
                         control = false;
-
                         break;
 
 
                 }
             }
             
-            
-
-
         }
 
         static void guide_info()
@@ -65,13 +60,6 @@ namespace OgrenciUygulamasi
             Console.WriteLine("4- Çıkış yap");
 
         }
-
-
-
-
-
-
-       // tobe continued...
 
 
 

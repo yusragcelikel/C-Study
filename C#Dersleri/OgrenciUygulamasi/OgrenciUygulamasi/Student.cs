@@ -18,7 +18,6 @@ namespace OgrenciUygulamasi
 
         public void student_info()
         {
-
             Console.WriteLine("Öğrenci numarası: " + id);
             Console.WriteLine("Öğrenci ismi: " + name);
             Console.WriteLine("Öğrenci soyismi:" + surname);
@@ -26,7 +25,6 @@ namespace OgrenciUygulamasi
             Console.WriteLine("Öğrenci vize2 notu: " + midterm2);
             Console.WriteLine("Öğrenci final notu: " + final);
             Console.WriteLine("Öğrenci okul ismi: " + school_name);
-
         }
 
         public Student(int student_id, string student_name, string student_surname, int student_midterm1, int student_midterm2, int student_final, string student_schoolName)
@@ -43,7 +41,7 @@ namespace OgrenciUygulamasi
         }
          public double cal_grade()
         {
-            double average (midterm1 * 0.2) +(midterm2 * 0.2) + (final * 0.6);
+            double average = (midterm1 * 0.2) +(midterm2 * 0.2) + (final * 0.6);
 
             return average;
         }

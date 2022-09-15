@@ -1,3 +1,8 @@
 C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.csproj.AssemblyReference.cache
 C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.csproj.SuggestedBindingRedirects.cache
 C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\OgrenciUygulamasi.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\OgrenciUygulamasi.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\OgrenciUygulamasi.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\OgrenciUygulamasi.pdb
