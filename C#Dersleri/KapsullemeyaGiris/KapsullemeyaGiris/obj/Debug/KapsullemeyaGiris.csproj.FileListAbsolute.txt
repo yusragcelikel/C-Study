@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeyaGiris\KapsullemeyaGiris\obj\Debug\KapsullemeyaGiris.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeyaGiris\KapsullemeyaGiris\obj\Debug\KapsullemeyaGiris.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeyaGiris\KapsullemeyaGiris\obj\Debug\KapsullemeyaGiris.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeyaGiris\KapsullemeyaGiris\bin\Debug\KapsullemeyaGiris.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeyaGiris\KapsullemeyaGiris\bin\Debug\KapsullemeyaGiris.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeyaGiris\KapsullemeyaGiris\bin\Debug\KapsullemeyaGiris.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeyaGiris\KapsullemeyaGiris\obj\Debug\KapsullemeyaGiris.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeyaGiris\KapsullemeyaGiris\obj\Debug\KapsullemeyaGiris.pdb

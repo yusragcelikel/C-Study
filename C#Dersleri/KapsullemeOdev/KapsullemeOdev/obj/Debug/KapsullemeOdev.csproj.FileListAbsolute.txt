@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeOdev\KapsullemeOdev\bin\Debug\KapsullemeOdev.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeOdev\KapsullemeOdev\bin\Debug\KapsullemeOdev.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeOdev\KapsullemeOdev\bin\Debug\KapsullemeOdev.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeOdev\KapsullemeOdev\obj\Debug\KapsullemeOdev.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeOdev\KapsullemeOdev\obj\Debug\KapsullemeOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeOdev\KapsullemeOdev\obj\Debug\KapsullemeOdev.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeOdev\KapsullemeOdev\obj\Debug\KapsullemeOdev.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\KapsullemeOdev\KapsullemeOdev\obj\Debug\KapsullemeOdev.pdb
