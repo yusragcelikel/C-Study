@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\obj\Debug\StaticYapiciMetotKullanimi.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\obj\Debug\StaticYapiciMetotKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\obj\Debug\StaticYapiciMetotKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\bin\Debug\StaticYapiciMetotKullanimi.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\bin\Debug\StaticYapiciMetotKullanimi.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\bin\Debug\StaticYapiciMetotKullanimi.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\obj\Debug\StaticYapiciMetotKullanimi.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticYapiciMetotKullanimi\StaticYapiciMetotKullanimi\obj\Debug\StaticYapiciMetotKullanimi.pdb

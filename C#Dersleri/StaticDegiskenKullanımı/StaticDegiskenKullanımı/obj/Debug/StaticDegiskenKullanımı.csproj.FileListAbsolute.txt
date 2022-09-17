@@ -1,0 +1,8 @@
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticDegiskenKullanımı\StaticDegiskenKullanımı\bin\Debug\StaticDegiskenKullanımı.exe.config
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticDegiskenKullanımı\StaticDegiskenKullanımı\bin\Debug\StaticDegiskenKullanımı.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticDegiskenKullanımı\StaticDegiskenKullanımı\bin\Debug\StaticDegiskenKullanımı.pdb
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticDegiskenKullanımı\StaticDegiskenKullanımı\obj\Debug\StaticDegiskenKullanımı.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticDegiskenKullanımı\StaticDegiskenKullanımı\obj\Debug\StaticDegiskenKullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticDegiskenKullanımı\StaticDegiskenKullanımı\obj\Debug\StaticDegiskenKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticDegiskenKullanımı\StaticDegiskenKullanımı\obj\Debug\StaticDegiskenKullanımı.exe
+C:\Users\gokce\OneDrive\Belgeler\GitHub\C-Study\C#Dersleri\StaticDegiskenKullanımı\StaticDegiskenKullanımı\obj\Debug\StaticDegiskenKullanımı.pdb
